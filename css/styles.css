@@ -50,8 +50,8 @@ hr {
 }
 
 /********** Class tags **********/
-.profile {
-  border-radius: 100%;
+.profile-picture {
+  border-radius: 75%;
   margin-top: 25px;
 }
 
