@@ -77,7 +77,8 @@ hr {
 
 .intro {
   width: 30%;
-  margin: auto;
+  margin: 30px auto 0 auto;
+
 }
 
 .skill-row {
