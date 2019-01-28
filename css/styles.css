@@ -32,7 +32,7 @@ a {
   text-decoration: none;
 }
 
-.bottom-container > a:hover {
+.bottom-container>a:hover {
   color: #eaf6f6;
 }
 
@@ -49,6 +49,7 @@ hr {
   margin: 100px auto;
 }
 
+
 /********** Class tags **********/
 .profile-picture {
   border-radius: 50%;
@@ -60,8 +61,6 @@ hr {
   position: relative;
   padding: 100px 0;
 }
-
-
 
 .bottom-cloud {
   position: absolute;
@@ -85,7 +84,6 @@ hr {
   margin: 150px auto 150px auto;
   text-align: left;
   overflow: auto;
-
   /*display: flex; */
 }
 
@@ -156,7 +154,6 @@ hr {
 .contact-message {
   width: 40%;
   margin: 40px auto 60px;
-
 }
 
 .bottom-container>a {
@@ -177,6 +174,4 @@ hr {
 .contact-heading {
   margin-left: 100px;
   margin-right: 100px;
-
-
 }
