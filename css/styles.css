@@ -61,9 +61,7 @@ hr {
   padding: 100px 0;
 }
 
-.middle-container {}
 
-.bottom-container {}
 
 .bottom-cloud {
   position: absolute;
@@ -84,26 +82,29 @@ hr {
 
 .skill-row {
   width: 50%;
-  margin: 100px auto 100px auto;
+  margin: 150px auto 150px auto;
   text-align: left;
+  overflow: auto;
+
+  /*display: flex; */
 }
 
 .code-img {
-  width: 30%;
+  width: 20%;
   border-radius: 100%;
   float: left;
   margin-right: 30px;
 }
 
 .research-img {
-  width: 30%;
+  width: 20%;
   border-radius: 100%;
   float: right;
   margin-left: 30px;
 }
 
 .makeup-img {
-  width: 30%;
+  width: 20%;
   border-radius: 100%;
   float: left;
   margin-right: 30px;
@@ -111,6 +112,8 @@ hr {
 
 .contact-me {
   margin-bottom: 100px;
+  text-align: center;
+  /*margin-top: 150px; */
 }
 
 .bottom-container {
@@ -153,6 +156,7 @@ hr {
 .contact-message {
   width: 40%;
   margin: 40px auto 60px;
+
 }
 
 .bottom-container>a {
@@ -168,4 +172,11 @@ hr {
   color: #EAF6F6;
   font-size: 0.75rem;
   padding: 20px 0;
+}
+
+.contact-heading {
+  margin-left: 100px;
+  margin-right: 100px;
+
+
 }
